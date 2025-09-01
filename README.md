@@ -2,7 +2,9 @@
 
 A simple REST API for managing Users and UserTasks with automatic task assignment and intelligent task rotation.
 
-## Key Features
+> **Note**: This is a proof-of-concept developed for an assignment. See [Assumptions & Scope](ASSUMPTIONS.md) for details about production-readiness considerations that were intentionally scoped out.
+
+## Features
 
 - ✅ **User Management** - CRUD operations with unique name constraints
 - ✅ **Task Management** - CRUD operations with automatic assignment
@@ -53,6 +55,7 @@ Import the included Postman collection for comprehensive testing:
 For detailed technical specifications, API schemas, and implementation details, see:
 - **[Technical Specification](TECHNICAL-SPECIFICATION.md)** - Complete technical documentation
 - **[Original Requirements](original-requirements.md)** - Original assignment requirements
+- **[Assumptions & Scope](ASSUMPTIONS.md)** - Project assumptions and scope decisions
 
 ## Technology
 
